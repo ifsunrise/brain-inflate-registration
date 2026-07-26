@@ -1,4 +1,4 @@
-# INFREG: Volume‑Inflation Registration for Human Focal Cortical Dysplasia Detection
+# INFREG: Volume-Inflation Registration (INFREG) for Morphometric Analysis of Human Focal Cortical Dysplasia Type II
 
 **INFREG** (Volume‑Inflation Registration) is a novel brain image registration method designed to improve the detection of focal cortical dysplasia (FCD). By integrating surface‑based deformation with volumetric alignment, INFREG minimises sulcal smoothing artefacts that typically confound voxel‑based morphometry (VBM), especially in highly folded association cortices.
 
